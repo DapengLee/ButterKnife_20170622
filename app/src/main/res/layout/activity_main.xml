@@ -28,4 +28,31 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
+
+    <Button
+        android:id="@+id/main_btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button01"/>
+    <Button
+        android:id="@+id/main_btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button02"/>
+    <Button
+        android:id="@+id/main_btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button03"/>
+
+    <Button
+        android:id="@+id/main_btn111111"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button03"/>
+    <Button
+        android:id="@+id/main_btn222222"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button03"/>
 </LinearLayout>
